@@ -12,10 +12,7 @@ package com.group4.applicationdevelopment;
 public class ApplicationDevelopment {
 
     public static void main(String[] args) {
-//        PerimeterCalculator perimeterCalculator = new PerimeterCalculator();
-//        perimeterCalculator.run();
-        CalculatePerimeter calculatePerimeter = new CalculatePerimeter();
-        calculatePerimeter.setVisible(true);
+
         
     }
 }
