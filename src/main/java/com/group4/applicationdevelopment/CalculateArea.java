@@ -49,7 +49,7 @@ public class CalculateArea extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 0, 36)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("TÍNH DIỆN TAM GIÁC");
+        jLabel1.setText("TÍNH DIỆN TÍCH TAM GIÁC");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
