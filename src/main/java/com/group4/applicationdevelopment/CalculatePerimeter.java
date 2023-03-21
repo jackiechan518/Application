@@ -18,7 +18,7 @@ public class CalculatePerimeter extends javax.swing.JFrame {
     public CalculatePerimeter() {
         initComponents();
     }
-
+// alo
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
